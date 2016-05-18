@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "merk-mod/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "revision": "merk-3.0"
+  },
+  {
+    "remote": "github",
+    "repository": "merk-mod/kernel_oneplus_msm8974",
+    "target_path": "kernel/oneplus/msm8974",
+    "revision": "merk-3.0"
+  },
+  {
+    "remote": "github",
+    "repository": "merk-mod/hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "revision": "merk-3.0"
+  }
+]
